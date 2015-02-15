@@ -1,0 +1,3 @@
+default:  --no-source --format pretty
+ci:  --no-source --format json -o cucumber.json
+ci-pretty:  --no-source --format pretty
